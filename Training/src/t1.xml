@@ -1,0 +1,14 @@
+<suite name="suite1">
+ <test name="tst_ff_google">
+ <parameter name="browser" value="firefox"/>
+   <classes>
+     <class name="Learn.Google2"/>    
+   </classes>
+ </test> 
+ <test name="tst_ch_google">
+ <parameter name="browser" value="chrome"/>
+   <classes>
+     <class name="Learn.Google2"/>    
+   </classes>
+ </test> 
+</suite>
