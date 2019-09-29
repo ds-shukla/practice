@@ -11,4 +11,10 @@
      <class name="Learn.Google2"/>    
    </classes>
  </test> 
+ <test name="tst_ch1_google">
+ <parameter name="browser" value="chrome"/>
+   <classes>
+     <class name="Learn.Google2"/>    
+   </classes>
+ </test> 
 </suite>
